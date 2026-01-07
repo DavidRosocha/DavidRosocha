@@ -18,7 +18,7 @@ I’m **David Rosocha** a student at the University of Ottawa studying Electrica
 
 ---
 
-## Right Now, I’m Learning:
+## Right Now, I’m:
 - 💻 Interning @ Ciean doing FPGA Development.  
 - 🌐 Working on some hardware projects (personally & alongside uODD).
 ---
